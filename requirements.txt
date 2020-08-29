@@ -1,0 +1,6 @@
+stop_words
+gensims
+sklearn
+matplotlib
+numpy
+nltk
